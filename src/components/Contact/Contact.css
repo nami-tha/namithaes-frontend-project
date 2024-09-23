@@ -1,0 +1,49 @@
+.contact-main{
+    background-color: #042f65;
+    display: flex;
+}
+.contact-content {
+  margin-left: 40px;
+  background-color: #042f65;
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+}
+.form-div {
+  background-color:#042f65;
+  padding: 5px;
+  width: 60%;
+  margin-left:10%;
+}
+
+form {
+  margin-top:30px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  padding-top: 20px;
+}
+
+input,
+textarea {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+  width: 300px;
+}
+
+.form-btn {
+  background-color: #032651;
+  color: #ffffff;
+  border: 1px solid #042f65;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 20px;
+  display: flex;
+  margin-top: 20px;
+  width: 80px;
+}

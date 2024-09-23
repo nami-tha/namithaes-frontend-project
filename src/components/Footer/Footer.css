@@ -1,0 +1,10 @@
+.footer{
+  left:0;
+  bottom: 0;
+  padding: 20px;
+  background-color:  #02244e;
+  color: #f4f8fc;
+  text-align: center;
+  display: flex;
+  
+}
