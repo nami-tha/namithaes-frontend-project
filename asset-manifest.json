@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/namithaes-frontend-project/static/css/main.eeb64c91.css",
+    "main.js": "/namithaes-frontend-project/static/js/main.f4529947.js",
+    "static/js/453.3642de2b.chunk.js": "/namithaes-frontend-project/static/js/453.3642de2b.chunk.js",
+    "index.html": "/namithaes-frontend-project/index.html",
+    "main.eeb64c91.css.map": "/namithaes-frontend-project/static/css/main.eeb64c91.css.map",
+    "main.f4529947.js.map": "/namithaes-frontend-project/static/js/main.f4529947.js.map",
+    "453.3642de2b.chunk.js.map": "/namithaes-frontend-project/static/js/453.3642de2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb64c91.css",
+    "static/js/main.f4529947.js"
+  ]
+}
